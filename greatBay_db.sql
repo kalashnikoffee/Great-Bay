@@ -16,4 +16,3 @@ CREATE TABLE allBids (
     PRIMARY KEY (id)
 );
 
-
